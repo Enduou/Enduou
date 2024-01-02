@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo Castro</h1>
 <h3 align="center">🚀</h3>
 
-- 🔭 Estou trabalhando em **Portal de licitações FrontEnd + BackEnd**
+- 🔭 Estou trabalhando em: **Portal de licitações FrontEnd + BackEnd**
 
-- 🌱 Atualmente aprendendo **React, Typescript e NextJS**
+- 🌱 Atualmente aprendendo: **React, Typescript e NextJS**
 
-- 💬 Pretensão de me desenvolver em **Python e estatística visando atuar com DataScience**
+- 💬 Pretensão de me desenvolver em: **Python e estatística visando atuar com DataScience**
 
-- 📫 Meu Email **eduardobpcfilho80@gmail.com**
+- 📫 Meu Email: **eduardobpcfilho80@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
